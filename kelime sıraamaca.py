@@ -1,4 +1,4 @@
-cumle ="zahidem uy kurbanım sana"
+cumle ="ibo emir salak akilli"
 kelimeler =cumle.split()
 kelimeler.sort()
 print(kelimeler)
