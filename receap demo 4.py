@@ -8,3 +8,4 @@ for calisan in calisanlar:
 
 
 fileToAppend.close()
+print(calisanlar)

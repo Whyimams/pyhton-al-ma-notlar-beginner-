@@ -1,3 +1,4 @@
+655
 #workshop 1 x ve y'yebir sayı ata ve bunları değiştir
 x=10
 y=20

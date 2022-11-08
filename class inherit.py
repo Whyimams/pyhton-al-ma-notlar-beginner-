@@ -16,7 +16,7 @@ class customer(person):
         self.creditcardnumber=creditcardnumber
 
 
-ahmet=worker("ahmet","keser",35)
+
 mehmet=customer(1323232)
 print(mehmet.creditcardnumber)
-print(ahmet.name)
+

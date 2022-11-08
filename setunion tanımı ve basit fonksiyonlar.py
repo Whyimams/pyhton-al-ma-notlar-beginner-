@@ -1,5 +1,5 @@
-setA =  {1,2,3,4,5}
-setB ={1,2,3,9}
+setA =  {1,2,3,4,5,3}
+setB ={1,2,3,9,1,1,1}
 print(setA|setB)
 print(setA.union(setB))
 print(setA&setB)
